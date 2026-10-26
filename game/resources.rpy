@@ -1,0 +1,7 @@
+define victor  = Character('Víctor Adams', color = '#1c7ecf')
+define valeria = Character('Valeria Yáñez', color = '#b92858')
+define nelson  = Character('Nelson Araneda', color = '#0a2188')
+define lisa    = Character('Lisa Araneda', color = '#9ec958')
+define yasmin  = Character('Yasmin Arias', color = '#3c13ad')
+define mei     = Character('Yue Mei', color = '#d85112')
+define ian     = Character('Ian Navarro', color = '#51336d')
